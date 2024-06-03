@@ -13,6 +13,7 @@ manage eye infections at an early stage, impacting both short-term eye health an
 healthcare diagnostics.
 
 #Objective:
+
 • The EyeFlueGuard initiative employs advanced learning techniques for early detection and management of eye flu.
 With a focus on developing a cutting-edge model and analyzing datasets, the goal is to empower individuals for prompt
 risk assessment, intervention, and reduced infection spread.
