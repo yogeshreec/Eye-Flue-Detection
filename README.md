@@ -12,7 +12,7 @@ EyeFlueGuard exemplifies the convergence of technology and medicine, showcasing 
 manage eye infections at an early stage, impacting both short-term eye health and the broader integration of AI in
 healthcare diagnostics.
 
-#Objective:
+Objective:
 
 • The EyeFlueGuard initiative employs advanced learning techniques for early detection and management of eye flu.
 With a focus on developing a cutting-edge model and analyzing datasets, the goal is to empower individuals for prompt
